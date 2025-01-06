@@ -7,6 +7,8 @@ These are the materials I studied with reference to the book, “Study Machine L
 
 Here's a quick conceptual explanation of the code:
 
-https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts(korean)
+(korean)
+https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts
 
-https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts(english.ver)
+(english)
+https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts
