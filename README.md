@@ -11,4 +11,5 @@ Here's a quick conceptual explanation of the code:
 https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts
 
 (english)
-https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts
+[https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts
+https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts(english.ver)z](https://github.com/chanyoung-shin/machine_learning/wiki/A-brief-explanation-of-machine-learning-concepts(english.ver))
